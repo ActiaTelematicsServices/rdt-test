@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'IOTRACK'
+copyright = '2023, Actia Telematics Services'
 author = 'Graziella'
 
 release = '0.1'
